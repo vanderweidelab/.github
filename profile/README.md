@@ -1,5 +1,6 @@
 
 # van der Weide Lab
+Quantitative chromatin biology
 
 ## ⚠️ **Opening September 1, 2026** ⚠️
 
