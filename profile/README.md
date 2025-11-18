@@ -1,8 +1,8 @@
 
 # van der Weide Lab
-Quantitative chromatin biology
+Multi-scale Control of Gene Regulation
 
-## ⚠️ **Opening Januari 1, 2026** ⚠️
+## Opening Januari 1, 2026
 
 We study multi-level gene regulation in single cells using systems biology and computational approaches.
 
